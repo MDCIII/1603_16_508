@@ -3,8 +3,8 @@
   "profile": "data-package-catalog",
   "resources": [
     {
-      "name": "1603_16_24_0",
-      "path": "1603/16/24/0/1603_16_24_0.no1.tm.hxl.csv",
+      "name": "1603_16_508_0",
+      "path": "1603/16/508/0/1603_16_508_0.no1.tm.hxl.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -21,6 +21,10 @@
             "type": "string"
           },
           {
+            "name": "#item+rem+i_por+is_latn+rdf_p_skos_preflabel_s5000+ix_alt0",
+            "type": "string"
+          },
+          {
             "name": "#item+rem+i_eng+is_latn+rdf_p_skos_preflabel_s5000+ix_alt0",
             "type": "string"
           },
@@ -30,6 +34,14 @@
           },
           {
             "name": "#meta+rem+i_qcc+is_zxxx+ix_ERROR+country+name",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_por+is_latn+rdf_p_skos_preflabel_s5000+ix_alt1",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_por+is_latn+rdf_p_skos_preflabel_s5000+ix_alt2",
             "type": "string"
           },
           {
@@ -55,13 +67,13 @@
         ]
       },
       "stats": {
-        "fields": 11,
+        "fields": 14,
         "rows": 1
       }
     },
     {
-      "name": "1603_16_24_1",
-      "path": "1603/16/24/1/1603_16_24_1.no1.tm.hxl.csv",
+      "name": "1603_16_508_1",
+      "path": "1603/16/508/1/1603_16_508_1.no1.tm.hxl.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -82,6 +94,10 @@
             "type": "string"
           },
           {
+            "name": "#item+rem+i_por+is_latn+rdf_p_skos_preflabel_s5001+ix_alt0",
+            "type": "string"
+          },
+          {
             "name": "#item+rem+i_eng+is_latn+rdf_p_skos_preflabel_s5001+ix_alt0",
             "type": "string"
           },
@@ -94,11 +110,23 @@
             "type": "string"
           },
           {
+            "name": "#item+rem+i_por+is_latn+rdf_p_skos_preflabel_s5001+ix_alt1",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_por+is_latn+rdf_p_skos_preflabel_s5001+ix_alt2",
+            "type": "string"
+          },
+          {
             "name": "#item+rem+i_eng+is_latn+rdf_p_skos_preflabel_s5001+ix_alt1",
             "type": "string"
           },
           {
             "name": "#item+rem+i_eng+is_latn+rdf_p_skos_preflabel_s5001+ix_alt2",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_por+is_latn+rdf_p_skos_preflabel_s5000",
             "type": "string"
           },
           {
@@ -124,13 +152,13 @@
         ]
       },
       "stats": {
-        "fields": 14,
-        "rows": 18
+        "fields": 18,
+        "rows": 11
       }
     },
     {
-      "name": "1603_16_24_2",
-      "path": "1603/16/24/2/1603_16_24_2.no1.tm.hxl.csv",
+      "name": "1603_16_508_2",
+      "path": "1603/16/508/2/1603_16_508_2.no1.tm.hxl.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -155,6 +183,10 @@
             "type": "string"
           },
           {
+            "name": "#item+rem+i_por+is_latn+rdf_p_skos_preflabel_s5002+ix_alt0",
+            "type": "string"
+          },
+          {
             "name": "#item+rem+i_eng+is_latn+rdf_p_skos_preflabel_s5002+ix_alt0",
             "type": "string"
           },
@@ -167,6 +199,14 @@
             "type": "string"
           },
           {
+            "name": "#item+rem+i_por+is_latn+rdf_p_skos_preflabel_s5002+ix_alt1",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_por+is_latn+rdf_p_skos_preflabel_s5002+ix_alt2",
+            "type": "string"
+          },
+          {
             "name": "#item+rem+i_eng+is_latn+rdf_p_skos_preflabel_s5002+ix_alt1",
             "type": "string"
           },
@@ -175,11 +215,19 @@
             "type": "string"
           },
           {
+            "name": "#item+rem+i_por+is_latn+rdf_p_skos_preflabel_s5001",
+            "type": "string"
+          },
+          {
             "name": "#item+rem+i_eng+is_latn+rdf_p_skos_preflabel_s5001",
             "type": "string"
           },
           {
             "name": "#meta+rem+i_qcc+is_zxxx+ix_ERROR+adm1+code+v_pcode",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_por+is_latn+rdf_p_skos_preflabel_s5000",
             "type": "string"
           },
           {
@@ -205,13 +253,13 @@
         ]
       },
       "stats": {
-        "fields": 17,
-        "rows": 161
+        "fields": 22,
+        "rows": 159
       }
     },
     {
-      "name": "1603_16_24_3",
-      "path": "1603/16/24/3/1603_16_24_3.no1.tm.hxl.csv",
+      "name": "1603_16_508_3",
+      "path": "1603/16/508/3/1603_16_508_3.no1.tm.hxl.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -240,6 +288,10 @@
             "type": "string"
           },
           {
+            "name": "#item+rem+i_por+is_latn+rdf_p_skos_preflabel_s5003+ix_alt0",
+            "type": "string"
+          },
+          {
             "name": "#item+rem+i_eng+is_latn+rdf_p_skos_preflabel_s5003+ix_alt0",
             "type": "string"
           },
@@ -252,11 +304,23 @@
             "type": "string"
           },
           {
+            "name": "#item+rem+i_por+is_latn+rdf_p_skos_preflabel_s5003+ix_alt1",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_por+is_latn+rdf_p_skos_preflabel_s5003+ix_alt2",
+            "type": "string"
+          },
+          {
             "name": "#item+rem+i_eng+is_latn+rdf_p_skos_preflabel_s5003+ix_alt1",
             "type": "string"
           },
           {
             "name": "#item+rem+i_eng+is_latn+rdf_p_skos_preflabel_s5003+ix_alt2",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_por+is_latn+rdf_p_skos_preflabel_s5002",
             "type": "string"
           },
           {
@@ -268,11 +332,19 @@
             "type": "string"
           },
           {
+            "name": "#item+rem+i_por+is_latn+rdf_p_skos_preflabel_s5001",
+            "type": "string"
+          },
+          {
             "name": "#item+rem+i_eng+is_latn+rdf_p_skos_preflabel_s5001",
             "type": "string"
           },
           {
             "name": "#meta+rem+i_qcc+is_zxxx+ix_ERROR+adm1+code+v_pcode",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_por+is_latn+rdf_p_skos_preflabel_s5000",
             "type": "string"
           },
           {
@@ -298,8 +370,8 @@
         ]
       },
       "stats": {
-        "fields": 20,
-        "rows": 539
+        "fields": 26,
+        "rows": 411
       }
     }
   ]
