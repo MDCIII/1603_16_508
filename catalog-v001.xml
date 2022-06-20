@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
-    <uri id="_1603_16_508_0_" name="urn:mdciii:1603:16:508:0?t=owl" uri="1603/16/508/0/1603_16_508_0.no1.owl.ttl"/>
-    <uri id="_1603_16_508_0_" name="urn:mdciii:1603:16:508:0?t=skos" uri="1603/16/508/0/1603_16_508_0.no1.skos.ttl"/>
-    <uri id="_1603_16_508_1_" name="urn:mdciii:1603:16:508:1?t=owl" uri="1603/16/508/1/1603_16_508_1.no1.owl.ttl"/>
-    <uri id="_1603_16_508_1_" name="urn:mdciii:1603:16:508:1?t=skos" uri="1603/16/508/1/1603_16_508_1.no1.skos.ttl"/>
-    <uri id="_1603_16_508_2_" name="urn:mdciii:1603:16:508:2?t=owl" uri="1603/16/508/2/1603_16_508_2.no1.owl.ttl"/>
-    <uri id="_1603_16_508_2_" name="urn:mdciii:1603:16:508:2?t=skos" uri="1603/16/508/2/1603_16_508_2.no1.skos.ttl"/>
-    <uri id="_1603_16_508_3_" name="urn:mdciii:1603:16:508:3?t=owl" uri="1603/16/508/3/1603_16_508_3.no1.owl.ttl"/>
-    <uri id="_1603_16_508_3_" name="urn:mdciii:1603:16:508:3?t=skos" uri="1603/16/508/3/1603_16_508_3.no1.skos.ttl"/>
+    <uri id="_1603_16_508_0__1" name="urn:mdciii:1603:16:508:0(1)" uri="1603/16/508/0/1603_16_508_0.no1.owl.ttl"/>
+    <uri id="_1603_16_508_0__1_1" name="urn:mdciii:1603:16:508:0(1)(1)" uri="1603/16/508/0/1603_16_508_0.no1.skos.ttl"/>
+    <uri id="_1603_16_508_1__1" name="urn:mdciii:1603:16:508:1(1)" uri="1603/16/508/1/1603_16_508_1.no1.owl.ttl"/>
+    <uri id="_1603_16_508_1__1_1" name="urn:mdciii:1603:16:508:1(1)(1)" uri="1603/16/508/1/1603_16_508_1.no1.skos.ttl"/>
+    <uri id="_1603_16_508_2__1" name="urn:mdciii:1603:16:508:2(1)" uri="1603/16/508/2/1603_16_508_2.no1.owl.ttl"/>
+    <uri id="_1603_16_508_2__1_1" name="urn:mdciii:1603:16:508:2(1)(1)" uri="1603/16/508/2/1603_16_508_2.no1.skos.ttl"/>
+    <uri id="_1603_16_508_3__1" name="urn:mdciii:1603:16:508:3(1)" uri="1603/16/508/3/1603_16_508_3.no1.owl.ttl"/>
+    <uri id="_1603_16_508_3__1_1" name="urn:mdciii:1603:16:508:3(1)(1)" uri="1603/16/508/3/1603_16_508_3.no1.skos.ttl"/>
 </catalog>
