@@ -14,7 +14,10 @@
           },
           {
             "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
           },
           {
             "name": "qcc-Zxxx-r-sU2200-s5000-snop",
@@ -44,7 +47,8 @@
             "name": "qcc-Zxxx-r-pP-pp2699-ps1603",
             "type": "string"
           }
-        ]
+        ],
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
       },
       "stats": {
         "fields": 9,
@@ -63,7 +67,10 @@
           },
           {
             "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
           },
           {
             "name": "qcc-Zxxx-r-sU2200-s5000-snop",
@@ -109,7 +116,8 @@
             "name": "qcc-Zxxx-r-pP-pp2699-ps1603",
             "type": "string"
           }
-        ]
+        ],
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
       },
       "stats": {
         "fields": 13,
@@ -128,7 +136,10 @@
           },
           {
             "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
           },
           {
             "name": "qcc-Zxxx-r-sU2200-s5000-snop",
@@ -190,7 +201,8 @@
             "name": "qcc-Zxxx-r-pP-pp2699-ps1603",
             "type": "string"
           }
-        ]
+        ],
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
       },
       "stats": {
         "fields": 17,
@@ -209,7 +221,10 @@
           },
           {
             "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
           },
           {
             "name": "qcc-Zxxx-r-sU2200-s5000-snop",
@@ -287,7 +302,8 @@
             "name": "qcc-Zxxx-r-pP-pp2699-ps1603",
             "type": "string"
           }
-        ]
+        ],
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
       },
       "stats": {
         "fields": 21,
